@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Additemform from './Additemform';
+import Addmeditem from './Addmeditem';
 
 function App() {
   return (
-    
+    <Addmeditem></Addmeditem>
   );
 }
 
